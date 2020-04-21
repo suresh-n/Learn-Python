@@ -1,2 +1,1 @@
-# learn
-dummy for learning 
+Python Learning Notes
